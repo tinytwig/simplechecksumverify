@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filehashcheck", "filehashcheck\filehashcheck.csproj", "{0A3BA14E-8AE7-43AF-899F-CBF3C9684A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3BA14E-8AE7-43AF-899F-CBF3C9684A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3BA14E-8AE7-43AF-899F-CBF3C9684A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3BA14E-8AE7-43AF-899F-CBF3C9684A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3BA14E-8AE7-43AF-899F-CBF3C9684A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA6B0DE-19BD-4C7F-B01B-8A93FA95EB09}
+	EndGlobalSection
+EndGlobal
