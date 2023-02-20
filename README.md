@@ -6,6 +6,9 @@ This is an extremely simple tool for verifything the algorithmic hash of a downl
 
 This is written in C# using the WPF framework. All it does take any given file, generates the hash using the CertUtil command line program which is, by default, installed to the Windows operating system. For that reason, this is only intended to be used with Windows.
 
+Here is an image of the UI:
+![ScreenshotUI1](https://user-images.githubusercontent.com/120602813/220208251-039eb639-a408-4c9a-ad46-28b42fe25c2f.png)
+
 ## How does this tool work?
 It takes the file, which the user provides, and it uses the following command to generate the alorithmic hash of the file:
 ```
